@@ -1,5 +1,5 @@
 
-var Core = (function(){
+var Dom = (function(){
 
 /*
 *当隐藏元素在其offsetParent中不可见时自动滚动到可见区域
